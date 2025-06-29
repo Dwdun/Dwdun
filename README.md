@@ -20,8 +20,13 @@
 
 📫 **Contact me:**
 
-![faqihshiam23@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![https://www.instagram.com/pppqihh_?igsh=MWZhZW00d2RwcWJlZg==](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![faqihshiam23@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
+faqihshiam23@gmail.com
 
+ ![https://www.instagram.com/pppqihh_?igsh=MWZhZW00d2RwcWJlZg==](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+ [@pppqihh_](https://www.instagram.com/pppqihh_?igsh=MWZhZW00d2RwcWJlZg==)
+
+ 
 **Play games w/ me**
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dwdun/Dwdun/output/pacman-contribution-graph-dark.svg">
