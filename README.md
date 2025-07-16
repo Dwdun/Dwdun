@@ -7,7 +7,7 @@
 - 🗓️ I just started learning programming in June 2025
 - 🎓 I’m currently studying at Politeknik Negeri Bandung
 - 🌎 i enjoy learning new things every day
-- ⭐ yellow is the og color, i live with it
+- ⭐ yellow is the og color
 
 ###### 💻 Editors:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
